@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Sources:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- http://paginas.fe.up.pt/~robosoc
+- https://sigarra.up.pt/feup/pt/projectos_geral.mostra_projecto?p_id=63722
+- https://hdl.handle.net/10216/67322
 
+## 5dpo - Small Size League (SML)
 
-[jekyll-organization]: https://github.com/jekyll
+## 5dpo-2000 - Middle Size League (MSL)
+
+## 5dpo-Human - Humanoid League
+
+## 5dpo MSL
+
+## 5dpo Robot@Factory 4.0
