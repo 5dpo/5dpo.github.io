@@ -22,10 +22,10 @@ path planning, and sensor fusion of wheel encoders, an Inertial Measurement Unit
 The participation of the 5dpo Robotics Team in the Robot@Factory 4.0 competion
 counted with the contribution of the following team members: António Paulo
 Moreira, Cláudia Daniela Rocha, João G. Martins, João Pedro Costa, José Maria
-Sarmento, José Pedro Carvalho, Maria S. Lopes, Paulo Gomes da Costa, and Ricardo
-B. Sousa. Although not participating in the competition, the researchers João
-Pedro and Vítor Ventuzelos also contributed to the participation of the 5dpo
-team in the competition.
+Sarmento, José Pedro Carvalho, Maria S. Lopes, and Ricardo B. Sousa. Although
+not participating in the competition, the researchers João Pedro and Vítor
+Ventuzelos also contributed to the participation of the 5dpo team in the
+competition.
 
 ![5dpo Robotics Team in R@F 4.0 2023](/img/ratf2023/DSC00872.JPG)
 
