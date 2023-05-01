@@ -27,6 +27,15 @@ B. Sousa. Although not participating in the competition, the researchers João
 Pedro and Vítor Ventuzelos also contributed to the participation of the 5dpo
 team in the competition.
 
-The competion Robot@Factory 4.0 is organized by the
+![5dpo Robotics Team in R@F 4.0 2023](/img/ratf2023/DSC00872.JPG)
+
+Also, the competion Robot@Factory 4.0 counted with participation of other teams
+from the
+[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)
+and the
+[Polytechnic Institute of Bragança (IPB)](https://portal3.ipb.pt/index.php/en/ipben/home).
+
+Lastly, Robot@Factory 4.0 is organized by the
 [_Sociedade Portuguesa de Robótica (SPR)_](http://www.sprobotica.pt/) at the
-[_Festival Nacional de Robótica_](https://www.festivalnacionalrobotica.pt/).
+[_Festival Nacional de Robótica_](https://www.festivalnacionalrobotica.pt/). The
+organizors are José Lima, Paulo Gomes da Costa, and Vítor Pinto.
