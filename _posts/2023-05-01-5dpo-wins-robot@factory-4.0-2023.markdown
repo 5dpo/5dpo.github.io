@@ -7,12 +7,12 @@ categories: jekyll update
 
 The 5dpo Robotics Team accomplishes the 1st and 2nd places in the Robot@Factory
 4.0 competion. This competition requires that a robot transports boxes to
-wherever needed. In the first leg, it is necessary to move the blue boxes
-between the departure warehouse and the arrival warehouse. In the second leg,
+wherever needed. In the first stage, it is necessary to move the blue boxes
+between the departure warehouse and the arrival warehouse. In the second stage,
 the green boxes will have to go through one of the processing machines A or B.
-Finally, in the third leg, the red boxes will have to go through two processing
-machines sequentially. The objective is to transport as many boxes as possible
-in the shortest time.
+Finally, in the third stage, the red boxes will have to go through two
+processing machines sequentially. The objective is to transport as many boxes as
+possible in the shortest time.
 
 Several technologies were tested by the researchers of the 5dpo Robotics Team,
 including PID-based controllers for motion control, the Dijkstra's algorithm for
