@@ -20,7 +20,8 @@ permalink: /
 
 A robotics team from the
 [Faculty of Engineering, University of Porto (FEUP)][FEUP]
-for R&D in the scope of national and international robotic competitions
+for R&D systems in the scope of national and international competitions of
+autonomous systems and robotics
 {: .fs-6 .fw-300 }
 
 [GitHub][5dpo GitHub]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -54,9 +55,13 @@ stating your intention to join the 5dpo Robotics Team.
 - Faculty member at FEUP (teacher, researcher)
 - Researcher at INESC TEC
 
-### Information to apply
+If you do not meet these requirements, please justify your academic and
+professional situation in the application email, including the respective
+affiliations.
 
-- Curriculum Vitae (background, experience, projects
+### Information for the application
+
+- Curriculum Vitae (background, academic and professional experience, projects)
 - GitHub
 
 ## Sponsors

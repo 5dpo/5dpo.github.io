@@ -2,11 +2,11 @@
 layout: post
 title:  "5dpo wins the Robot@Factory 4.0 2022"
 date:   2022-05-23 17:00:00 +0100
-categories: jekyll update
+categories: fnr ratf
 ---
 
 Original source:
-https://www.inesctec.pt/en/news/inesc-tec-won-a-competition-at-national-robotics-festival.
+[https://www.inesctec.pt/en/news/inesc-tec-won-a-competition-at-national-robotics-festival](https://www.inesctec.pt/en/news/inesc-tec-won-a-competition-at-national-robotics-festival).
 
 A robot developed at INESC TEC's Centre for Robotics in Industry and Intelligent
 Systems (CRIIS) by the 5dpo Robotics Team won the Robot@Factory 4.0, a
@@ -59,4 +59,4 @@ organizors are José Lima, Paulo Gomes da Costa, and Vítor Pinto.
 Other related posts:
 
 - [_Equipas da FEUP dominaram o Festival Nacional de Robótica 2022_](https://noticias.up.pt/equipas-da-feup-dominam-o-festival-nacional-de-robotica-2022/)
-- [LinkedIn](https://www.linkedin.com/posts/sousa-ricardob_participation-of-the-5dpo-feupinesc-tec-activity-6927379892497989633-61Ep)
+- [LinkedIn post](https://www.linkedin.com/posts/sousa-ricardob_participation-of-the-5dpo-feupinesc-tec-activity-6927379892497989633-61Ep)

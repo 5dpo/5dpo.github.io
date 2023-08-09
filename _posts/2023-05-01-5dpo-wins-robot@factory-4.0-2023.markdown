@@ -2,7 +2,7 @@
 layout: post
 title:  "5dpo wins the Robot@Factory 4.0 2023"
 date:   2023-05-01 17:00:00 +0100
-categories: jekyll update
+categories: fnr ratf
 ---
 
 The 5dpo Robotics Team accomplishes the 1st and 2nd places in the Robot@Factory
@@ -39,3 +39,7 @@ Lastly, Robot@Factory 4.0 is organized by the
 [_Sociedade Portuguesa de Robótica (SPR)_](http://www.sprobotica.pt/) at the
 [_Festival Nacional de Robótica_](https://www.festivalnacionalrobotica.pt/). The
 organizors are José Lima, Paulo Gomes da Costa, and Vítor Pinto.
+
+Other related posts:
+
+- [LinkedIn post](https://www.linkedin.com/posts/sousa-ricardob_robotatfactory4-fnr2023-robotics-activity-7063971895381008384-ezaf)
