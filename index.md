@@ -54,9 +54,9 @@ stating your intention to join the 5dpo Robotics Team.
 - Faculty member at FEUP (teacher, researcher)
 - Researcher at INESC TEC
 
-### Information
+### Information to apply
 
-- Curriculum Vitae
+- Curriculum Vitae (background, experience, projects
 - GitHub
 
 ## Sponsors

@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+nav_order: 2
+permalink: /about
 ---
+
+# About the 5dpo Robotics Team
 
 Sources:
 
