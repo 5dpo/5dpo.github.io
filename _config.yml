@@ -209,3 +209,7 @@ compress_html:
   #   envs: all
 
 github: [metadata]
+
+
+
+# show_excerpts: true
