@@ -2,7 +2,7 @@
 layout: default
 title: Alumni
 parent: Team
-nav_order: 2
+nav_order: 3
 permalink: /team/alumni
 ---
 
