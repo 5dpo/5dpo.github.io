@@ -8,6 +8,7 @@ permalink: /team/members
 
 [FEUP]: https://sigarra.up.pt/feup/en/
 [INESC TEC]: https://www.inesctec.pt/en/
+[IPB]:https://portal3.ipb.pt/en/
 [UA]:https://www.ua.pt/en/
 [UFBA]: https://www.ufba.br/
 [UTAD]: https://www.utad.pt/en/
@@ -19,12 +20,14 @@ permalink: /team/members
   ([mail](mailto:amoreira@fe.up.pt),
   [@apaulomoreira](https://github.com/apaulomoreira),
   [LinkedIn](https://www.linkedin.com/in/antonio-paulo-moreira-08442a13),
+  [Google Scholar](https://scholar.google.com/citations?user=eL0gHLoAAAAJ),
   [ORCiD](https://orcid.org/0000-0001-8573-3147))
 - Cláudia Daniela Rocha
   (UTAD, INESC TEC)
   ([mail](mailto:claudia.d.rocha@inesctec.pt),
   [@rochaclaudia](https://github.com/rochaclaudia),
   [LinkedIn](https://www.linkedin.com/in/cl%C3%A1udia-rocha-942959236),
+  [Google Scholar](https://scholar.google.pt/citations?user=zTNelHAAAAAJ),
   [ORCiD](https://orcid.org/0000-0001-7254-0346))
 - Daniel Filipe Silva
   (FEUP)
@@ -68,10 +71,12 @@ permalink: /team/members
   (FEUP, INESC TEC)
   ([mail](mailto:paco@fe.up.pt),
   [@P33a](https://github.com/P33a),
+  [Google Scholar](https://scholar.google.com/citations?user=7Iz8fKcAAAAJ),
   [ORCiD](https://orcid.org/0000-0002-4846-271X))
 - Ricardo Barbosa Sousa
   (FEUP, INESC TEC)
   ([mail](mailto:ricardo.b.sousa@inesctec.pt),
   [@sousarbarb](https://github.com/sousarbarb),
   [LinkedIn](https://www.linkedin.com/in/sousa-ricardob/),
+  [Google Scholar](https://scholar.google.com/citations?user=Bz2FMqYAAAAJ)
   [ORCiD](https://orcid.org/0000-0003-4537-5095))

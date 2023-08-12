@@ -5,6 +5,6 @@ parent: Competitions
 permalink: /competitions/ratf
 ---
 
-# Robot@Factory 4.0
+# Robot@Factory 4.0 (Portuguese Open Robotics)
 
 TBC

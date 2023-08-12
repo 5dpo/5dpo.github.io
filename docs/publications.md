@@ -7,6 +7,19 @@ permalink: /publications
 
 # Publications
 
+Ferreira, T., Braun, J., Lima, J., Pinto, V.H., Santos, M., & Costa, P.G. (2023).
+_Robot at Factory 4.0: An Auto-Referee Proposal Based on Artificial Vision_.
+In: ROBOT2022: Fifth Iberian Robotics Conference. ROBOT 2022. Lecture Notes in
+Networks and Systems, vol. 589, pp. 475-487.
+DOI: [10.1007/978-3-031-21065-5_39](https://doi.org/10.1007/978-3-031-21065-5_39)
+
+Lima, J., Pinto, V.H., Moreira, A.P., & Costa, P.G. (2022).
+_Improving Incremental Encoder Measurement: Variable Acquisition Window and_
+_Quadrature Phase Compensation to Minimize Acquisition Errors_.
+In: 2022 IEEE International Conference on Autonomous Robot Systems and
+Competitions (ICARSC), pp. 118-123.
+DOI: [10.1109/ICARSC55462.2022.9784766](https://doi.org/10.1109/ICARSC55462.2022.9784766)
+
 Sousa, R.B., Petry, M.R., Costa, P.G., & Moreira, A.P. (2022).
 _OptiOdom: a Generic Approach for Odometry Calibration of Wheeled Mobile Robots_.
 Journal of Intelligent & Robotic Systems, **105**(39).
