@@ -5,6 +5,8 @@ date:   2022-05-23 17:00:00 +0100
 categories: fnr ratf
 ---
 
+# 5dpo wins the Robot@Factory 4.0 2022
+
 Original source:
 [https://www.inesctec.pt/en/news/inesc-tec-won-a-competition-at-national-robotics-festival](https://www.inesctec.pt/en/news/inesc-tec-won-a-competition-at-national-robotics-festival).
 
