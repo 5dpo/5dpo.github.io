@@ -48,6 +48,13 @@ _Proposal of a new real-time cooperative challenge in mobile robotics_.
 IFAC Proceedings Volumes, **44**(1):9836-9841.
 DOI: [10.3182/20110828-6-IT-1002.02539](https://doi.org/10.3182/20110828-6-IT-1002.02539)
 
+Nascimento, T.P., Pinto, M.A., Sobreira, H.M., Guedes, F., Castro, A.,
+Malheiros, P., Pinto, A., Alves, H.P., Ferreira, M., Costa, P., Costa, P.G.,
+Souza, A., Almeida, L., Reis, L.P., and Moreira, A.P. (2011).
+_5DPO'2011: Team Description Paper_.
+In: RoboCup 2011.
+URL: [https://archive.robocup.info/Soccer/MiddleSize/TDPs/RoboCup/2011/5DPO_MSL_RC2011_TDP.pdf](https://archive.robocup.info/Soccer/MiddleSize/TDPs/RoboCup/2011/5DPO_MSL_RC2011_TDP.pdf)
+
 Costa, P.G., Moreira, A.P., Sousa, A., Costa, P., Gaio, S., Marques, P., &
 Malheiros, P. (2006).
 _5dpo Team Description for RoboCup 2006_.
