@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboCup Middle Size League (MSL)
+title: RoboCup MSL
 has_children: true
 parent: Competitions
 permalink: /competitions/msl

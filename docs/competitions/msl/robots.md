@@ -1,7 +1,7 @@
 ---
 layout: default
-title: MSL Robots
-parent: RoboCup Middle Size League (MSL)
+title: MSL 5dpo Robots
+parent: RoboCup MSL
 permalink: /competitions/msl/robots
 ---
 
