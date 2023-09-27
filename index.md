@@ -53,11 +53,11 @@ stating your intention to join the 5dpo Robotics Team.
 
 - Student at FEUP (BSc, MSc, PhD)
 - Faculty member at FEUP (teacher, researcher)
-- Researcher at INESC TEC
+- Researcher at any institution related to FEUP
 
-If you do not meet these requirements, please justify your academic and
-professional situation in the application email, including the respective
-affiliations.
+If you do not meet at least one of these requirements, please justify your
+academic and/or professional situation in the application email, including your
+current affiliations.
 
 ### Information for the application
 
