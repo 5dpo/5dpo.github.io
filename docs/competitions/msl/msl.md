@@ -8,4 +8,4 @@ permalink: /competitions/msl
 
 # RoboCup Middle Size League (MSL)
 
-TBC
+TBC (history, status, introduction, etc.)
