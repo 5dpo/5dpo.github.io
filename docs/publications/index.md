@@ -3,10 +3,12 @@ layout: default
 title: Publications
 nav_order: 6
 permalink: /publications
-has_toc: true
+has_toc: false
 ---
 
 # Publications
+
+{:toc}
 
 ## 2023
 
