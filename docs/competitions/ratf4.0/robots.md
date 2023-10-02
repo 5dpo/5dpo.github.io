@@ -2,6 +2,7 @@
 layout: default
 title: R@F 4.0 Robots
 has_children: true
+grand_parent: Competitions
 parent: Robot@Factory 4.0
 permalink: /competitions/ratf/robots
 ---

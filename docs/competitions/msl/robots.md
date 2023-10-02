@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MSL 5dpo Robots
+grand_parent: Competitions
 parent: RoboCup MSL
 permalink: /competitions/msl/robots
 ---
