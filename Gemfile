@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 
 
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.4.1"
 gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 # gem "github-pages", "~> 228", group: :jekyll_plugins
 
