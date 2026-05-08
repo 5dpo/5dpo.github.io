@@ -5,7 +5,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "5dpo Robotics Team from the Faculty of Engineering, University of Porto (FEUP)"
+description: "5dpo Robotics Team from DEEC-FEUP and INESC TEC"
 permalink: /
 ---
 
@@ -18,8 +18,7 @@ permalink: /
 # 5dpo Robotics Team
 {: .fs-9 }
 
-A robotics team from the
-[Faculty of Engineering, University of Porto (FEUP)][FEUP]
+A robotics team from [DEEC][DEEC]-[FEUP][FEUP] and [INESC TEC][INESC TEC]
 for R&D systems in the scope of national and international competitions of
 autonomous systems and robotics
 {: .fs-6 .fw-300 }
@@ -30,9 +29,12 @@ autonomous systems and robotics
 ---
 
 5dpo is a robotics team from the
-[Faculty of Engineering, University of Porto (FEUP)][FEUP], Porto, Portugal.
-This team is composed by undergraduate and graduate students, teachers, and
-researchers of the university.
+[Electrical and Computers Engineering Department (DEEC)][DEEC] at the
+[Faculty of Engineering, University of Porto (FEUP)][FEUP], Porto, Portugal,
+and from
+[INESC TEC - Institute for Systems and Computer Engineering, Technology and Science][INESC TEC],
+Porto, Portugal. This team is composed by undergraduate and graduate students,
+teachers, and researchers of both institutions.
 The team has participated in several national and international competitions,
 such as
 [Small Size League (SSL)](https://www.robocup.org/leagues/7) and
@@ -53,7 +55,7 @@ stating your intention to join the 5dpo Robotics Team.
 
 - Student at FEUP (BSc, MSc, PhD)
 - Faculty member at FEUP (teacher, researcher)
-- Researcher at any institution related to FEUP
+- Researcher at any institution related to FEUP, including INESC TEC
 
 If you do not meet at least one of these requirements, please justify your
 academic and/or professional situation in the application email, including your
@@ -66,6 +68,6 @@ current affiliations.
 
 ## Sponsors
 
-- [Faculty of Engineering, University of Porto (FEUP)][FEUP]
 - [Electrical and Computers Engineering Department (DEEC) @ FEUP][DEEC]
+- [Faculty of Engineering, University of Porto (FEUP)][FEUP]
 - [INESC TEC - Institute for Systems and Computer Engineering, Technology and Science][INESC TEC]
